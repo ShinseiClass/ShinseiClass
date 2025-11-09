@@ -9,6 +9,26 @@
   <img src="https://img.shields.io/badge/Visual_Cinematic-Designer-purple?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Emotion_Sync-Engineer-pink?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+---
+
+## 🎬 Featured Cinematic Projects
+
+<p align="center">
+  <a href="https://klingaiaffiliate.pxf.io/9LxE7Y" target="_blank">
+    <img src="https://github.com/ShinseiClass/ShinseiClass/assets/0000000000/feature1.jpg" width="300" style="border-radius:20px; margin:10px;" alt="No Break - K-Pop Anime MV">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://github.com/ShinseiClass/ShinseiClass/assets/0000000000/feature2.jpg" width="300" style="border-radius:20px; margin:10px;" alt="POV Couple Scene - Japanese Lipsync">
+  </a>
+</p>
+<p align="center">
+  <b>No Break - K-Pop Anime MV</b><br>
+  <i>Animated Music Video in hybrid 3D/2D AI style featuring expressive K-pop idols and cinematic camera work.</i>
+</p>
+<p align="center">
+  <b>POV Couple Scene - Japanese Lipsync</b><br>
+  <i>Emotional AI performance scene with synchronized lip movement and realistic eye animation.</i>
+</p>
 </p>
 # 🎬 ShinseiClass  
 **AI Director Architect | Cinematic Visual Story Crafter**

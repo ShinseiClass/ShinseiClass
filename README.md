@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShinseiClass/ShinseiClass/main/ShinseiClass_Banner.png" alt="ShinseiClass Banner" width="100%">
+</p>
 # 🎬 ShinseiClass  
 **AI Director Architect | Cinematic Visual Story Crafter**
 

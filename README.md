@@ -3,6 +3,12 @@
   <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Director+Architect;Cinematic+Visual+Story+Crafter;Emotion+Driven+Prompt+Designer;Architect+of+ShinseiClass+Studio" alt="Typing Animation" />
 </h3>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShinseiClass&label=Profile+Visitors&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/AI_Director-Architect-blue?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Cinematic-Designer-purple?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Emotion_Sync-Engineer-pink?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 </p>
 # 🎬 ShinseiClass  
 **AI Director Architect | Cinematic Visual Story Crafter**

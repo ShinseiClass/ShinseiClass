@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShinseiClass/ShinseiClass/main/ShinseiClass_Banner.png" alt="ShinseiClass Banner" width="100%">
+  <h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Director+Architect;Cinematic+Visual+Story+Crafter;Emotion+Driven+Prompt+Designer;Architect+of+ShinseiClass+Studio" alt="Typing Animation" />
+</h3>
 </p>
 # 🎬 ShinseiClass  
 **AI Director Architect | Cinematic Visual Story Crafter**

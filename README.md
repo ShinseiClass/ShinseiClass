@@ -124,6 +124,60 @@
 <h4 align="center">
   <em>Every frame, every pixel, carries an emotion - built with logic, led by soul.</em>
 </h4>
+---
+
+<h2 align="center">🎬 Visual Cinematic Showreel</h2>
+
+<p align="center">
+  <em>“Every scene is a heartbeat — every frame, a universe.”</em>
+</p>
+
+---
+
+<h3 align="center">🎥 FEATURED FILMOGRAPHY</h3>
+
+<p align="center">
+  <a href="https://www.instagram.com/sya.international" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram_Showreel-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@kiddiesvibesid" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok_Shortfilms-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.threads.net/@sya.international" target="_blank">
+    <img src="https://img.shields.io/badge/Threads_Director's_Log-%23000000?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🌌 SELECTED VISUAL WORKS</h3>
+
+<p align="center">
+  <img src="https://github.com/ShinseiClass/ShinseiClass/assets/visual1.png" width="270" style="border-radius:12px; margin:5px;">
+  <img src="https://github.com/ShinseiClass/ShinseiClass/assets/visual2.png" width="270" style="border-radius:12px; margin:5px;">
+  <img src="https://github.com/ShinseiClass/ShinseiClass/assets/visual3.png" width="270" style="border-radius:12px; margin:5px;">
+</p>
+
+<p align="center">
+  <em>Each image above represents a crafted moment from ShinseiClass’ AI Cinematic Universe.<br>
+  Built not for virality — but for timeless visual impact.</em>
+</p>
+
+---
+
+<h3 align="center">📜 GLOBAL HOOK</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Your+Vision+Deserves+a+Director+Who+Understands+Emotion;We+Don't+Just+Create+Scenes+-+We+Build+Worlds;Collaborate+With+ShinseiClass+and+Make+Your+Brand+Cinematic" alt="Global Hook typing animation" />
+</p>
+
+---
+
+<h4 align="center">
+  <strong>🎥 ShinseiClass | Global AI Director Architect</strong><br>
+  <em>Crafting emotion, rhythm, and timelessness through machine intelligence.</em>
+</h4>
+
 </p>
 # 🎬 ShinseiClass  
 **AI Director Architect | Cinematic Visual Story Crafter**

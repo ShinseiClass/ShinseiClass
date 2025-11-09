@@ -177,6 +177,61 @@
   <strong>🎥 ShinseiClass | Global AI Director Architect</strong><br>
   <em>Crafting emotion, rhythm, and timelessness through machine intelligence.</em>
 </h4>
+---
+
+<h2 align="center">🤝 CINEMATIC COLLABORATION GATEWAY</h2>
+
+<p align="center">
+  <em>“When vision meets precision — a masterpiece begins.”</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Let's+Build+Worlds+That+Feel+Alive;Your+Brand+Deserves+Cinematic+Emotion;Every+Frame+Has+a+Story+—+Let's+Direct+It+Together." alt="Collaboration hook typing animation" />
+</p>
+
+---
+
+<h3 align="center">🌐 CONNECT FOR GLOBAL PROJECTS</h3>
+
+<p align="center">
+  <a href="mailto:Shiyumeka.international@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact_ShinseiClass-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.threads.net/@sya.international" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-Direct_Message-%23000000?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/sya.international" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Visual_Portal-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">💬 AVAILABLE FOR</h3>
+
+<p align="center">
+  🎞️ AI Music Videos & Cinematic Shorts<br>
+  🧠 Brand Visual Identity & Story Direction<br>
+  🎥 Emotional Animation & Film Concepting<br>
+  🪶 Global AI Collaboration (Private Access)
+</p>
+
+---
+
+<h4 align="center">
+  <strong>🌍 Currently accepting private global collaborations.</strong><br>
+  <em>Serious inquiries only — every project begins with a story worth telling.</em>
+</h4>
+
+---
+
+<h3 align="center">🎬 FINAL CREDITS</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=©+2025+ShinseiClass+Studio;AI+Director+Architect+|+Cinematic+Emotion+Engineer;All+Rights+Reserved." alt="Final credits typing" />
+</p>
+
+---
 
 </p>
 # 🎬 ShinseiClass  

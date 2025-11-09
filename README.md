@@ -68,6 +68,62 @@
   ✦ Crafted with vision by <strong>ShinseiClass</strong> ✦<br>
   <em>“Emotion is the highest form of intelligence.”</em>
 </h4>
+---
+
+<h2 align="center">🎥 Cinematic Skill Framework</h2>
+
+<p align="center">
+  <em>“Precision, Emotion, and Design — orchestrated under one vision.”</em>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/adobe-after-effects.png" width="60px" /><br>
+      <b>Motion & VFX Design</b><br>
+      <sub>After Effects • Runway • Kling AI</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/adobe-premiere-pro.png" width="60px" /><br>
+      <b>Cinematic Editing</b><br>
+      <sub>Premiere • DaVinci • CapCut Pro</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/unreal-engine.png" width="60px" /><br>
+      <b>World Building</b><br>
+      <sub>Unreal Engine • Blender • 3D Sync</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/python.png" width="60px" /><br>
+      <b>AI Integration</b><br>
+      <sub>Python • ComfyUI • OpenAI API</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/adobe-photoshop.png" width="60px" /><br>
+      <b>Concept & Visual Design</b><br>
+      <sub>Photoshop • Midjourney • Ideogram</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60px" /><br>
+      <b>Emotion & Scene Direction</b><br>
+      <sub>Voice Sync • Eye Emotion • Cinematic Flow</sub>
+    </td>
+  </tr>
+</table>
+---
+<h3 align="center">🧠 Core Strengths Matrix</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinseiClass&layout=compact&theme=radical" alt="Language Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShinseiClass&theme=tokyonight&hide_border=true" alt="Coding Streak Stats" />
+</p>
+---
+<h4 align="center">
+  <em>Every frame, every pixel, carries an emotion - built with logic, led by soul.</em>
+</h4>
 </p>
 # 🎬 ShinseiClass  
 **AI Director Architect | Cinematic Visual Story Crafter**

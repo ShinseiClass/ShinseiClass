@@ -44,6 +44,30 @@
   <b>POV Couple Scene - Japanese Lipsync</b><br>
   <i>Emotional AI performance scene with synchronized lip movement and realistic eye animation.</i>
 </p>
+---
+<h3 align="center">🌐 Connect with ShinseiClass</h3>
+<p align="center">
+  <a href="https://www.instagram.com/sya.international" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.threads.net/@sya.international" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-%23000000?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
+  <a href="mailto:Shiyumeka.international@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=ShinseiClass&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Stats Widget">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=AI+Architect+%7C+Cinematic+Director+%7C+Emotional+Story+Engineer;Let's+Collaborate+on+Intelligent+Visual+Worlds+Together" alt="Animated tagline" />
+</p>
+---
+<h4 align="center">
+  ✦ Crafted with vision by <strong>ShinseiClass</strong> ✦<br>
+  <em>“Emotion is the highest form of intelligence.”</em>
+</h4>
 </p>
 # 🎬 ShinseiClass  
 **AI Director Architect | Cinematic Visual Story Crafter**

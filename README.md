@@ -1,48 +1,31 @@
-<!-- 🏛️ ShinseiClass Official Profile -->
+# 🎬 ShinseiClass  
+**AI Director Architect | Cinematic Visual Story Crafter**
 
-<p align="center">
-  <img src="https://i.ibb.co/VgPR8vQ/shinsei-banner-temp.jpg" width="100%" alt="ShinseiClass Cinematic Banner"/>
-</p>
-
-<h1 align="center">🎬 ShinseiClass Studio</h1>
-<h3 align="center">AI Director Architect — Designing Emotion through Synthetic Vision</h3>
+Welcome to my official GitHub space - the place where AI meets cinematic storytelling.  
+I design, experiment, and direct AI-based visual systems that merge emotion, camera motion, and human soul through code and creativity.
 
 ---
 
-### 🧭 Vision
-> *"Architecture is not only about structure — it's about emotion, rhythm, and cinematic light."*  
-> — **ShinseiClass**
-
-ShinseiClass is an **AI Director Architect Studio**, merging visual storytelling, architectural precision, and emotional AI direction into one cinematic blueprint.  
-Each frame is crafted as a living design — not generated, but *composed*.
+### 🧠 About Me
+- 🎥 Founder of **ShinseiClass Studio** - crafting AI cinematic systems and story architecture.  
+- 🧩 Specialized in **AI Directing**, **Prompt Engineering**, and **Visual Emotion Design**.  
+- 🌍 Focused on merging art, emotion, and machine intelligence into unified cinematic experiences.
 
 ---
 
-### 🧠 Studio Projects
-- 🎞️ **The Blueprint Series** — experimental visuals exploring cinematic architecture  
-- 🌌 **Cognitive Motion Lab** — human emotion & AI fusion pipelines  
-- ⚙️ **Director Architect Tools** — private internal workflow & visual pipelines  
+### 🚀 Current Projects
+- 🎞️ **Cinematic AI Director Framework**
+- 🧬 **Emotion Sync Engine for Anime Character AI**
+- 🔭 **Architectural Layout for Visual Generative Storytelling**
 
 ---
 
-### 🧩 Research & Method
-| Area | Description |
-|------|--------------|
-| 🎨 Visual Syntax | Emotion-coded composition language |
-| 🎥 Cinematic AI | Hybrid anime-cinema motion systems |
-| 🧱 Structural Design | Layered storytelling through architectural rhythm |
+### 🌐 Connect
+📸 Instagram: [@sya.international](https://instagram.com/sya.international)  
+🧵 Threads: [@sya.international](https://www.threads.net/@sya.international)  
+📧 Email: shiyumeka.international@gmail.com  
 
 ---
 
-### 💼 Contact & Connect
-📧 **Shiyumeka.international@gmail.com**  
-🌐 [Instagram @kakangvidz](https://instagram.com/sya.international)  
-🧩 [Threads @kangvidz](https://www.threads.net/@sya.international)
-
----
-
-<p align="center">
-  <img src="https://i.ibb.co/zmy1Db6/line-divider-gold.png" width="60%">
-</p>
-
-<p align="center"><b><i>“The Architecture of Emotion — Built by AI, Guided by Soul.”</i></b></p>
+> *"We don’t just direct AI - we teach it to feel."*  
+> - **ShinseiClass**

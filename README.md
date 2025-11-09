@@ -234,91 +234,72 @@
 
 <section align="center">
 
-<h2>🗂️ Global Press Kit — ShinseiClass Studio</h2>
+---
 
-<p><em>Professional assets & media kit for collaborators, brands, and press.</em></p>
+## 🗂️ Global Press Kit — **ShinseiClass Studio**
 
-<div align="center" style="max-width:1000px;margin:auto; padding:12px; border-radius:18px; background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.12));">
-  <table align="center" width="100%" style="color:#e6eef8;">
-    <tr>
-      <td width="48%" valign="top" style="padding:18px;">
-        <h3 style="margin-bottom:6px;">About the Studio</h3>
-        <p style="color:#cbd7e6; margin-top:0;">
-          <strong>ShinseiClass — AI Director Architect</strong><br>
-          Architecting emotion-driven visuals and cinematic worlds using AI and human direction.  
-          Focus: AI Music Videos, Emotional Animation, Brand Filmography.
-        </p>
+**Professional assets & media kit for collaborators, brands, and press.**
 
-        <h4 style="margin-bottom:6px;">Mission</h4>
-        <p style="color:#cbd7e6; margin-top:0;">
-          To craft visual experiences where algorithmic precision meets human feeling — delivering premium cinematic narratives for global brands.
-        </p>
+---
 
-        <p style="margin-top:10px;">
-          <a href="https://github.com/ShinseiClass/ShinseiClass/raw/main/ShinseiClass_PressKit_Bio.pdf" target="_blank" rel="noopener">
-            <img src="https://img.shields.io/badge/Download_Bio-PDF-00A8FF?style=for-the-badge&logo=adobe&logoColor=white" alt="Download Bio">
-          </a>
-          &nbsp;
-          <a href="https://github.com/ShinseiClass/ShinseiClass/raw/main/ShinseiClass_Portfolio_Sample.zip" target="_blank" rel="noopener">
-            <img src="https://img.shields.io/badge/Download_Portfolio-ZIP-00D084?style=for-the-badge&logo=github&logoColor=white" alt="Download Portfolio Sample">
-          </a>
-        </p>
-      </td>
+### 🎬 About the Studio
 
-      <td width="52%" valign="top" style="padding:18px; text-align:center;">
-        <img src="https://raw.githubusercontent.com/ShinseiClass/ShinseiClass/main/ShinseiClass_Banner.png" alt="ShinseiClass Banner" width="100%" style="border-radius:12px; box-shadow: 0 6px 24px rgba(0,0,0,0.6);">
-        <p style="margin-top:10px; color:#cbd7e6;">Quick kit: logos, press bio, brand guidelines.</p>
+**ShinseiClass — AI Director Architect**  
+Architecting emotion-driven visuals and cinematic worlds using AI and human direction.  
+**Focus:** AI Music Videos • Emotional Animation • Brand Filmography
 
-        <div style="margin-top:8px;">
-          <a href="https://github.com/ShinseiClass/ShinseiClass/raw/main/ShinseiClass_Logo_Light.png" target="_blank" rel="noopener">
-            <img src="https://img.shields.io/badge/Logo-Light-%23FFD700?style=for-the-badge&logo=googlephotos&logoColor=white" alt="Logo Light">
-          </a>
-          &nbsp;
-          <a href="https://github.com/ShinseiClass/ShinseiClass/raw/main/ShinseiClass_Logo_Dark.png" target="_blank" rel="noopener">
-            <img src="https://img.shields.io/badge/Logo-Dark-%23000000?style=for-the-badge&logo=googlephotos&logoColor=white" alt="Logo Dark">
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<div align="center" style="margin-top:14px;">
-  <h4>Brand Guidelines (Key Palette)</h4>
-  <p style="margin:6px 0; color:#cbd7e6;">
-    Primary: <strong>#0B1221</strong> (Deep Night) • Accent: <strong>#00BFFF</strong> (Neon Sky) • Gold: <strong>#D4AF37</strong>
-  </p>
+### 🌍 Mission
 
-  <p style="margin-top:6px;">
-    <a href="https://github.com/ShinseiClass/ShinseiClass/raw/main/ShinseiClass_Brand_Guidelines.pdf" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/Download_Brand_Guidelines-PDF-7A5CFF?style=for-the-badge&logo=adobepdf&logoColor=white" alt="Brand Guidelines">
-    </a>
-  </p>
-</div>
+To craft visual experiences where algorithmic precision meets human feeling —  
+delivering premium cinematic narratives for global brands.
 
-<hr style="border:none; height:1px; background:linear-gradient(90deg, rgba(255,255,255,0), rgba(255,255,255,0.08)); margin:20px 0;">
+---
 
-<div align="center">
-  <h3>How to use the assets</h3>
-  <ul style="text-align:left; display:inline-block; color:#cbd7e6; max-width:900px;">
-    <li><strong>Logo usage:</strong> Use on dark/light backgrounds per guideline files.</li>
-    <li><strong>Bio paragraph:</strong> Copy the one-page PDF for press release.</li>
-    <li><strong>Credits:</strong> Attribute: <em>ShinseiClass Studio — AI Director Architect</em></li>
-  </ul>
-</div>
+### 🧩 Download Press Materials
 
-<div align="center" style="margin-top:18px;">
-  <p style="color:#cbd7e6;">
-    <strong>Official contact:</strong><br>
-    <a href="mailto:Shiyumeka.international@gmail.com">Shiyumeka.international@gmail.com</a> • <a href="https://www.threads.net/@sya.international" target="_blank">Threads @sya.international</a>
-  </p>
+[![Download Bio](https://img.shields.io/badge/Download_Bio-PDF-00A8FF?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/ShinseiClass/ShinseiClass/raw/main/ShinseiClass_PressKit_Bio.pdf)
+[![Download Portfolio](https://img.shields.io/badge/Download_Portfolio-ZIP-00D084?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShinseiClass/ShinseiClass/raw/main/ShinseiClass_Portfolio_Sample.zip)
 
-  <p style="margin-top:8px; color:#cbd7e6;">
-    <em>For press, interviews, or global creative partnerships — serious inquiries only.</em>
-  </p>
-</div>
+---
 
-</section>
+### 🖼️ Visual Assets Preview
+![ShinseiClass Banner](https://raw.githubusercontent.com/ShinseiClass/ShinseiClass/main/ShinseiClass_Banner.png)
+
+Quick kit: logos, press bio, brand guidelines.
+
+[![Logo Light](https://img.shields.io/badge/Logo-Light-%23FFD700?style=for-the-badge&logo=googlephotos&logoColor=white)](https://github.com/ShinseiClass/ShinseiClass/raw/main/ShinseiClass_Logo_Light.png)
+[![Logo Dark](https://img.shields.io/badge/Logo-Dark-%23000000?style=for-the-badge&logo=googlephotos&logoColor=white)](https://github.com/ShinseiClass/ShinseiClass/raw/main/ShinseiClass_Logo_Dark.png)
+
+---
+
+### 🎨 Brand Guidelines (Key Palette)
+
+| Tone | Color | Description |
+|------|--------|-------------|
+| Primary | `#0B1221` | Deep Night |
+| Accent | `#00BFFF` | Neon Sky |
+| Highlight | `#D4AF37` | Gold Essence |
+
+[![Download Guidelines](https://img.shields.io/badge/Download_Guidelines-PDF-7A5CFF?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/ShinseiClass/ShinseiClass/raw/main/ShinseiClass_Brand_Guidelines.pdf)
+
+---
+
+### 🧠 How to Use the Assets
+
+- **Logo usage:** Use on dark/light backgrounds per guideline files.  
+- **Bio paragraph:** Copy from the one-page PDF for press release.  
+- **Credits:** Attribute: *ShinseiClass Studio — AI Director Architect*
+
+---
+
+### ✉️ Official Contact
+
+📧 [Shiyumeka.international@gmail.com](mailto:Shiyumeka.international@gmail.com)  
+📱 [Threads @sya.international](https://www.threads.net/@sya.international)
+
+> For press, interviews, or global creative partnerships - **serious inquiries only.**
 
 ---
 

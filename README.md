@@ -11,6 +11,21 @@
 </p>
 ---
 
+<h3 align="center">🜸 ShinseiClass — The AI Director Architect 🜸</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Designing+Future+Visions+through+AI;Architecting+Emotion+and+Story+Frame+by+Frame;Welcome+to+the+World+of+Shinsei+Class." alt="typing signature" />
+</p>
+<p align="center">
+  <img src="https://github.com/ShinseiClass/ShinseiClass/blob/main/signature_line.png" width="350px" alt="signature line"/>
+</p>
+<p align="center">
+  <em>"Crafting worlds where emotion meets algorithm."</em>
+</p>
+<p align="center">
+  <strong>© 2025 ShinseiClass Studio | AI Director Architect</strong>
+</p>
+---
 ## 🎬 Featured Cinematic Projects
 
 <p align="center">
